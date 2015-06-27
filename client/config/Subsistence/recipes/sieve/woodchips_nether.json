@@ -1,0 +1,17 @@
+[
+    {
+        "input":{
+            "item":"subsistence:component_wood",
+            "damage":4
+        },
+        "output":[
+            {
+                "item":{
+                    "item":"subsistence:component_wood",
+                    "damage":1
+                },
+                "chance":0.04
+            }
+        ]
+    }
+]

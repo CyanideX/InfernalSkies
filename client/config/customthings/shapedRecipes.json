@@ -1,0 +1,157 @@
+{"data":
+    [
+		{
+        "input": [["null", "plankWood"], 
+                  ["minecraft:stick", "null"]],
+        "output": "subsistence:hammer_wood;0"
+		},
+		{
+        "input": [["null", "null", "customthings:item;43"], 
+                  ["null", "subsistence:component_item;0", "null"],
+				  ["minecraft:stick", "null", "null"]],
+        "output": "subsistence:hammer_stone;0"
+		},
+		{
+        "input": [["minecraft:stick", "slabWood", "minecraft:stick"], 
+                  ["slabWood", "gearWood", "slabWood"],
+				  ["minecraft:stick", "slabWood", "minecraft:stick"]],
+        "output": "subsistence:water_mill;0"
+		},
+		{
+        "input": [["subsistence:component_ground;2", "null", "subsistence:component_ground;2"], 
+                  ["rodStone", "null", "rodStone"],
+				  ["subsistence:component_ground;2", "subsistence:component_ground;2", "subsistence:component_ground;2"]],
+        "output": "subsistence:barrel;2"
+		},
+		{
+        "input": [["minecraft:stone_slab;3", "null", "minecraft:stone_slab;3"], 
+                  ["rodStone", "null", "rodStone"],
+				  ["minecraft:cobblestone", "minecraft:cobblestone", "minecraft:cobblestone"]],
+        "output": "subsistence:barrel;1"
+		},
+		{
+        "input": [["slabWood", "null", "slabWood"], 
+                  ["minecraft:stick", "null", "minecraft:stick"],
+				  ["plankWood", "plankWood", "plankWood"]],
+        "output": "subsistence:barrel;0"
+		},
+		{
+        "input": [["null", "rodStone", "null"], 
+                  ["subsistence:component_ground;2", "subsistence:component_ground;2", "subsistence:component_ground;2"]],
+        "output": "subsistence:barrel_lid;2"
+		},
+		{
+        "input": [["null", "rodStone", "null"], 
+                  ["minecraft:stone_slab;3", "minecraft:stone_slab;3", "minecraft:stone_slab;3"]],
+        "output": "subsistence:barrel_lid;1"
+		},
+		{
+        "input": [["null", "minecraft:stick", "null"], 
+                  ["slabWood", "slabWood", "slabWood"]],
+        "output": "subsistence:barrel_lid;0"
+		},
+		{
+        "input": [["minecraft:netherrack", "minecraft:netherrack", "minecraft:netherrack"], 
+                  ["minecraft:netherrack", "null", "minecraft:netherrack"],
+				  ["minecraft:netherrack", "minecraft:netherrack", "minecraft:netherrack"]],
+        "output": "subsistence:hellfire_furnace;3"
+		},
+		{
+		"input": [["rodStone", "subsistence:component_ground;2", "subsistence:component_ground;2"], 
+                  ["subsistence:component_ground;2", "null", "subsistence:component_ground;2"],
+				  ["subsistence:component_ground;2", "subsistence:component_ground;2", "subsistence:component_ground;2"]],
+        "output": "subsistence:compost;2"
+		},
+		{
+		"input": [["rodStone", "minecraft:stone_slab;3", "minecraft:stone_slab;3"], 
+                  ["minecraft:cobblestone", "null", "minecraft:cobblestone"],
+				  ["minecraft:cobblestone", "minecraft:cobblestone", "minecraft:cobblestone"]],
+        "output": "subsistence:compost;1"
+		},
+		{
+		"input": [["minecraft:stick", "slabWood", "slabWood"], 
+                  ["plankWood", "null", "plankWood"],
+				  ["plankWood", "plankWood", "plankWood"]],
+        "output": "subsistence:compost;0"
+		},
+		{
+        "input": [["itemPlate_iron", "BuildCraft|Core:ironGearItem", "itemPlate_iron"], 
+                  ["subsistence:metal_shaft", "BuildCraft|Core:ironGearItem", "subsistence:metal_shaft"],
+				  ["ingotIron", "ingotIron", "ingotIron"]],
+        "output": "subsistence:kinetic_crank;0"
+		},
+		{
+        "input": [["itemPlate_iron", "null", "itemPlate_iron"], 
+                  ["subsistence:metal_shaft", "BuildCraft|Core:ironGearItem", "subsistence:metal_shaft"],
+				  ["ingotIron", "ingotIron", "ingotIron"]],
+        "output": "subsistence:hammer_mill;0"
+		},
+		{
+        "input": [["itemPlate_iron", "itemPlate_iron", "itemPlate_iron"], 
+                  ["subsistence:metal_shaft", "null", "subsistence:metal_shaft"],
+				  ["BuildCraft|Core:ironGearItem", "blockIron", "BuildCraft|Core:ironGearItem"]],
+        "output": "subsistence:metal_press;0"
+		},
+		{
+        "input": [["slabWood", "slabWood", "slabWood"], 
+                  ["plankWood", "plankWood", "plankWood"],
+				  ["minecraft:stick", "null", "minecraft:stick"]],
+        "output": "subsistence:table;0"
+		},
+		{
+        "input": [["null", "minecraft:stick", "null"], 
+                  ["minecraft:stick", "subsistence:component_item;1", "minecraft:stick"],
+				  ["null", "minecraft:stick", "null"]],
+        "output": "subsistence:hand_sieve;0"
+		},
+		{
+        "input": [["null", "minecraft:stick", "subsistence:component_item;1"], 
+                  ["null", "minecraft:stick", "minecraft:stick"],
+				  ["minecraft:stick", "null", "null"]],
+        "output": "subsistence:net;0"
+		},
+		{
+        "input": [["null", "null", "ingotIron"], 
+                  ["null", "ingotIron", "null"],
+				  ["ingotIron", "null", "null"]],
+        "output": "subsistence:metal_shaft;0",
+		"outputAmount": "6"
+		},
+		{
+        "input": [["null", "null", "subsistence:metal_shaft"], 
+                  ["subsistence:metal_shaft", "gearIron", "subsistence:metal_shaft"],
+				  ["subsistence:metal_shaft", "null", "null"]],
+        "output": "subsistence:crank;0"
+		},
+		{
+        "input": [["null", "null", "customthings:item;38"], 
+                  ["null", "subsistence:metal_shaft", "null"],
+				  ["subsistence:metal_shaft", "null", "null"]],
+        "output": "subsistence:hammer_diamond;0"
+		},
+		{
+        "input": [["null", "null", "customthings:item;37"], 
+                  ["null", "subsistence:component_item;3", "null"],
+				  ["minecraft:stick", "null", "null"]],
+        "output": "subsistence:hammer_steel;0"
+		},
+		{
+        "input": [["null", "null", "customthings:item;39"], 
+                  ["null", "subsistence:component_item;3", "null"],
+				  ["minecraft:stick", "null", "null"]],
+        "output": "subsistence:hammer_iron;0"
+		},
+		{
+        "input": [["null", "null", "plankWood"], 
+                  ["null", "subsistence:component_item;0", "null"],
+				  ["minecraft:stick", "null", "null"]],
+        "output": "subsistence:hatchet;0"
+		},
+		{
+        "input": [["null", "null", "null"], 
+                  ["plankWood", "null", "plankWood"],
+				  ["null", "plankWood", "null"]],
+        "output": "subsistence:wooden_bucket;0"
+		}
+    ]
+}

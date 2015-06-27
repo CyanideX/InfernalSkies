@@ -1,0 +1,11 @@
+{
+	"sorting_index": 16,
+	"category": "Nether",
+	"title": "Him",
+	"body": "Yes... this will do. Your past, your future, your very light lies before this moment. None will have meaning should you choose to turn back. But if you choose to do so, do it now. For if you carry on to face this beast there will be no turning back. By then, you will be something other than human. You will simply... cease to exist.",
+	"sound": "netherLore16",
+	"autoplay": true,
+	"notify": false,
+	"commands": ["setblock -299 147 -490 air 0 replace", "setblock -298 147 -490 air 0 replace", "setblock -297 147 -490 air 0 replace", "setblock -299 148 -490 air 0 replace", "setblock -298 148 -490 air 0 replace", "setblock -297 148 -490 air 0 replace", "setblock -299 149 -490 air 0 replace", "setblock -298 149 -490 air 0 replace", "setblock -297 149 -490 air 0 replace"]
+}
+

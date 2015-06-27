@@ -1,0 +1,100 @@
+[
+  {
+    "input": "logWood",
+    "output": {
+      "item": "planks",
+      "amount": 6
+    },
+    "durability": 30
+  },
+  {
+    "input": "planks",
+    "output": {
+      "item": "subsistence:component_wood",
+      "damage": 3,
+      "amount": 1
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+      "item": "subsistence:component_wood",
+      "damage": 3
+    },
+    "output": {
+      "item": "subsistence:component_wood",
+      "damage": 0,
+      "amount": 1
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+      "item": "subsistence:infernal_log",
+      "damage": 0
+    },
+    "output": {
+      "item": "subsistence:component_wood",
+      "damage": 4,
+      "amount": 1
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+      "item": "subsistence:component_wood",
+      "damage": 4
+    },
+    "output": {
+      "item": "subsistence:component_wood",
+      "damage": 1,
+      "amount": 1
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+      "item": "subsistence:rich_infernal_log",
+      "damage": 0
+    },
+    "output": {
+      "item": "subsistence:component_wood",
+      "damage": 5,
+      "amount": 1
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+      "item": "subsistence:component_wood",
+      "damage": 5
+    },
+    "output": {
+      "item": "subsistence:component_wood",
+      "damage": 2,
+      "amount": 1
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+      "item": "minecraft:wheat"
+    },
+    "output": {
+      "item": "EnderIO:itemPowderIngot",
+      "damage": 8,
+      "amount": 1
+    },
+    "durability": 15
+  },
+  {
+    "input": {
+      "item": "minecraft:reeds"
+    },
+    "output": {
+      "item": "minecraft:sugar",
+      "amount": 2
+    },
+    "durability": 15
+  }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "input":{
+            "item":"minecraft:sand"
+        },
+        "output":[
+            {
+                "item":{
+                    "item":"minecraft:brown_mushroom"
+                },
+                "chance":0.04
+            }
+        ]
+    }
+]

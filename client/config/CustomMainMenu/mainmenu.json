@@ -1,0 +1,228 @@
+{
+    "images":
+    {
+        "sidebar":
+        {
+            "image" : "textures:sidebar2.png",
+            "posX" : -240,
+            "posY" : 0,
+            "width" : 1024,
+            "height" : 512,
+            "alignment" : "left"
+        }
+    },
+    
+    "buttons":
+    {		
+		"singleplayer":
+        {
+            "text" : "Singleplayer",
+            "posX" : 50,
+            "posY" : -205,
+            "width" : 70,
+            "height" : 20,
+			"alignment" : "bottom_left",
+			"texture" : "textures:button.png",
+			"tooltip" : "LAN Gameplay",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "Multiplayer",
+            "posX" : 50,
+            "posY" : -185,
+            "width" : 62,
+            "height" : 20,
+			"alignment" : "bottom_left",
+			"texture" : "textures:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "options":
+        {
+            "text" : "Options",
+            "posX" : 50,
+            "posY" : -165,
+            "width" : 45,
+            "height" : 20,
+			"alignment" : "bottom_left",
+			"texture" : "textures:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+		
+		"mods":
+        {
+            "text" : "Mods",
+            "posX" : 50,
+            "posY" : -145,
+            "width" : 35,
+            "height" : 20,
+			"alignment" : "bottom_left",
+			"texture" : "textures:button.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+		
+		"report":
+        {
+            "text" : "Repo",
+            "posX" : 50,
+            "posY" : -125,
+            "width" : 35,
+            "height" : 20,
+			"alignment" : "bottom_left",
+			"texture" : "textures:button.png",
+			"tooltip" : "Report Issues",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/CyanideX/Infernal-Skies/issues"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 50,
+            "posY" : -50,
+            "width" : 30,
+            "height" : 20,
+			"alignment" : "bottom_left",
+			"texture" : "textures:button.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -125,
+            "posY" : -22,
+            "width" : 11,
+            "height" : 11,
+			"alignment" : "bottom_right",
+			"tooltip" : "Language",
+			"texture" : "textures:globe.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+		
+		"forum":
+        {
+            "text" : "",
+            "posX" : -110,
+            "posY" : -22,
+            "width" : 11,
+            "height" : 11,
+			"alignment" : "bottom_right",
+			"tooltip" : "Forum",
+			"texture" : "textures:repo.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/mod-packs/2093133"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -95,
+            "posY" : -22,
+            "width" : 11,
+            "height" : 11,
+			"alignment" : "bottom_right",
+			"tooltip" : "Refresh",
+            "texture" : "textures:reload.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+		"patreon":
+        {
+            "text" : "",
+            "posX" : -140,
+            "posY" : -22,
+            "width" : 11,
+            "height" : 11,
+			"alignment" : "bottom_right",
+			"tooltip" : "Patreon",
+            "texture" : "textures:patreon.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.patreon.com/CyanideX"
+            }
+        },
+		
+		"cyanidex":
+        {
+            "text" : "",
+            "posX" : -155,
+            "posY" : -22,
+            "width" : 11,
+            "height" : 11,
+			"alignment" : "bottom_right",
+			"tooltip" : "CyanideX.com",
+            "texture" : "textures:cyanidex.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.CyanideX.com"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "version":
+        {
+            "text" : "Beta 0.1.5.2",
+            "posX" : -70,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+    
+    "other": {
+        "background": {
+            "image": "",
+            "slideshow": {
+                "images": [
+                    "textures:5.png",
+                    "textures:6.png",
+                    "textures:7.png",
+                    "textures:8.png",
+					"textures:9.png"
+                ],
+                "displayDuration": 160,
+                "fadeDuration": 40,
+                "shuffle": "false"
+            }
+        }
+    }
+}

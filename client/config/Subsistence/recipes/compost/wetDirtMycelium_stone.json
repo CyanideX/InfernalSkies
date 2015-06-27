@@ -1,0 +1,41 @@
+[
+  {
+    "type": "stone",
+	"input": [
+      {"ores": ["treeSapling", "treeLeaves"]}
+    ],
+    "output": {
+      "item": {
+        "item": "dirt",
+        "amount": 3
+      }
+    },
+    "time": {
+      "heat": {
+        "torch": 2500
+      }
+    },
+    "condensates": true,
+    "conditional": "any_with_global_limit",
+    "global_limit": 24
+  },
+  {
+	"type": "stone",
+	"input": [
+      {"item": "dirt", "amount": 3},
+      {"item": "web", "amount": 1}
+    ],
+    "output": {
+      "item": {
+        "item": "mycelium",
+        "amount": 3
+      }
+    },
+    "time": {
+      "heat": {
+        "torch": 2500
+      }
+    },
+    "requires_condensate": true
+  }
+]

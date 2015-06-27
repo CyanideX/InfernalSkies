@@ -1,0 +1,11 @@
+[
+  {
+    "input": {
+      "item": {"item": "customthings:item", "damage": 40},
+      "fluid": {"fluid": "water", "amount": 2000}
+    },
+    "output": {
+	  "item": {"item": "customthings:item", "damage": 37}
+    }
+  }
+]

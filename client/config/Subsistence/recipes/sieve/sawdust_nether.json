@@ -1,0 +1,16 @@
+[
+    {
+        "input":{
+            "item":"subsistence:component_wood",
+            "damage":0
+        },
+        "output":[
+            {
+                "item":{
+                    "item":"minecraft:blaze_powder"
+                },
+                "chance":0.04
+            }
+        ]
+    }
+]

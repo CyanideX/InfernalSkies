@@ -1,0 +1,13 @@
+[
+  {
+    "input": {
+      "item": "netherrack"
+    },
+    "output": {"fluid": "lava", "amount": 100},
+    "heat": {
+	  "torch": 400,
+      "fire": 200,
+      "lava": 160
+    }
+  }
+]

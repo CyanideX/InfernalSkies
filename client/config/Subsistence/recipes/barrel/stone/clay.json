@@ -1,0 +1,11 @@
+[
+  {
+    "input": {
+      "item": [{"item": "subsistence:component_ground", "damage": 0}, "dirt"],
+      "fluid": {"fluid": "water", "amount": 1000}
+    },
+    "output": {
+      "item": "clay"
+    }
+  }
+]

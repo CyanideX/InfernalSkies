@@ -1,0 +1,9 @@
+[
+  [
+    "minecraft:log",
+    {"item": "subsistence:component_wood", "damage": 3},
+    {"item": "subsistence:component_wood", "damage": 0},
+    {"item": "subsistence:component_wood", "damage": 0},
+	{"item": "subsistence:component_wood", "damage": 0}
+  ]
+]

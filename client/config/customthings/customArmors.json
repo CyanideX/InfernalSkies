@@ -1,0 +1,15 @@
+{"data":
+	[
+		{
+		"name": "netherDiamondArmor",
+		"armors": [0, 1, 2, 3],
+		"durabilities": [363, 528, 495, 429],
+		"protectionDisplays": [1.5, 4, 3, 1.5],
+		"protectionRatios": [0.1, 0.1, 0.1, 0.1],
+		"protectionMaxes": [5, 15, 20, 7],
+		"priorities": [0, 0, 0, 0],
+		"enchantability": 15,
+		"material": "customthings:item;2"
+		}
+	]
+}

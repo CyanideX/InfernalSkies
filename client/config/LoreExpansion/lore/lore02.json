@@ -1,0 +1,19 @@
+{
+	"sorting_index": 2,
+	"title": "Being Resourceful",
+	"body": "As you have no doubt noticed, you aren't exactly situated in the most promising place. The land will be no friend of yours; finding comfort will be no easy task. Take what it gives you. Mold these meager crumbs to their best use. Be resourceful. It is not mastery of the land that you should seek, but the ability to feel its needs. This region offers power. Find this... and you will thrive. Ignore this... and you will relive your mistakes.
+	If you think you can subsist on the gifts given you here, you are sadly mistaken. There is no boon - no excess - to spend on anything except necessities. Heed well my words...
+	You only. Need. ONE. Crafting table.",
+	"sound": "lore02",
+	"autoplay": true,
+	"notify": false,
+	"commands":[
+      {
+         "commands":[
+            "time set 32000",
+            "gamerule doDaylightCycle false",
+			"weather clear"
+         ]
+      }
+   ]
+}

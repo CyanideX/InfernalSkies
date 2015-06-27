@@ -1,0 +1,9 @@
+[
+  [
+    "minecraft:diamond",
+	{"item": "customthings:item", "damage": 42},
+    {"item": "customthings:item", "damage": 42},
+	{"item": "customthings:item", "damage": 42},
+	{"item": "customthings:item", "damage": 42}
+  ]
+]

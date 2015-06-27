@@ -1,0 +1,37 @@
+{"data":
+	[
+		{
+		"name": "dryWood",
+		"hardness": 2.0f,
+		"type": "wood",
+		"drops": ["subsistence:component_wood;0"],
+		"textureMap": [dryWood, dryWood, dryWood, dryWood, dryWood, dryWood]
+		},
+		{
+		"name": "dryWoodSplitTop",
+		"hardness": 2.0f,
+		"type": "wood",
+		"drops": ["subsistence:component_wood;0"],
+		"textureMap": [dryWood, dryWood, dryWoodSplitTop, dryWoodSplitTop, dryWoodSplitTop, dryWoodSplitTop]
+		},
+		{
+		"name": "dryWoodSplitBottom",
+		"hardness": 2.0f,
+		"type": "wood",
+		"drops": ["subsistence:component_wood;0"],
+		"textureMap": [dryWood, dryWood, dryWoodSplitBottom, dryWoodSplitBottom, dryWoodSplitBottom, dryWoodSplitBottom]
+		},
+		{
+		"name": "rottenHay",
+		"hardness": 0.6f,
+		"type": "grass",
+		"textureMap": [rottenHay, rottenHay, rottenHay_side, rottenHay_side, rottenHay_side, rottenHay_side]
+		},
+		{
+		"name": "brittleStone",
+		"hardness": 1.3f,
+		"type": "rock",
+		"textureMap": [brittleStone, brittleStone, brittleStone, brittleStone, brittleStone, brittleStone]
+		}
+	]
+}

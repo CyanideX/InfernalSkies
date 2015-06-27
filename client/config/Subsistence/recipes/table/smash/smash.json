@@ -1,0 +1,134 @@
+[
+  {
+    "input": "stone",
+    "output": "cobblestone",
+    "durability": 40
+  },
+  {
+    "input": "minecraft:cobblestone",
+    "output": "minecraft:gravel",
+    "durability": 40
+  },
+  {
+    "input": "minecraft:gravel",
+    "output": "minecraft:sand",
+    "durability": 40
+  },
+  {
+    "input": "minecraft:sand",
+    "output": {
+    	"item": "subsistence:component_ground",
+    	"damage": 0
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+    	"item": "subsistence:component_ground",
+    	"damage": 2
+    },
+    "output": "minecraft:netherrack",
+    "durability": 40
+  },
+  {
+    "input": "minecraft:netherrack",
+    "output": {
+    	"item": "subsistence:component_ground",
+    	"damage": 1
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+    	"item": "subsistence:component_ground",
+    	"damage": 1
+    },
+    "output": "minecraft:soul_sand",
+    "durability": 40
+  },
+  {
+    "input": "minecraft:soul_sand",
+    "output": {
+    	"item": "subsistence:component_ground",
+    	"damage": 3
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+    	"item": "customthings:item",
+    	"damage": 15
+    },
+    "output": {
+    	"item": "customthings:item",
+    	"damage": 18
+    },
+    "durability": 40
+  },
+  {
+    "input": {
+    	"item": "customthings:item",
+    	"damage": 18
+    },
+    "output": {
+    	"item": "customthings:item",
+    	"damage": 40
+    },
+    "durability": 10
+  },
+  {
+    "input": {
+    	"item": "customthings:item",
+    	"damage": 40
+    },
+    "output": {
+    	"item": "customthings:item",
+    	"damage": 16
+    },
+    "durability": 10
+  },
+  {
+    "input": {
+    	"item": "customthings:item",
+    	"damage": 16
+    },
+    "output": {
+    	"item": "customthings:item",
+    	"damage": 17
+    },
+    "durability": 10
+  },
+  {
+    "input": {
+    	"item": "customthings:item",
+    	"damage": 17
+    },
+    "output": {
+    	"item": "customthings:item",
+    	"damage": 20
+    },
+    "durability": 10
+  },
+  {
+    "input": {
+    	"item": "customthings:item",
+    	"damage": 20
+    },
+    "output": {
+    	"item": "customthings:item",
+    	"damage": 19
+    },
+    "durability": 10
+  },
+  {
+    "input": {
+    	"item": "customthings:item",
+    	"damage": 19
+    },
+    "output": {
+    	"item": "customthings:item",
+    	"damage": 41
+    },
+    "durability": 10
+  }
+]

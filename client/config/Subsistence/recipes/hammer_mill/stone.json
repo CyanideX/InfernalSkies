@@ -1,0 +1,9 @@
+[
+  [
+    "stone",
+    "cobblestone",
+    "gravel",
+	"sand",
+	{"item": "subsistence:component_ground", "damage": 0}
+  ]
+]
