@@ -1,0 +1,9 @@
+[
+  [
+    "subsistence:infernal_log",
+    {"item": "subsistence:component_wood", "damage": 4},
+    {"item": "subsistence:component_wood", "damage": 1},
+    {"item": "subsistence:component_wood", "damage": 1},
+	{"item": "subsistence:component_wood", "damage": 1}
+  ]
+]

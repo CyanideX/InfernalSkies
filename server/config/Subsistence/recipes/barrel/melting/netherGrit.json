@@ -1,0 +1,12 @@
+[
+  {
+    "input": {
+      "item": "subsistence:component_ground", "damage": 1
+    },
+    "output": {"fluid": "lava", "amount": 50},
+    "heat": {
+      "fire": 200,
+      "lava": 160
+    }
+  }
+]

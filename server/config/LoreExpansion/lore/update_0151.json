@@ -1,0 +1,21 @@
+{
+	"sorting_index": 100,
+	"title": "Update 0.1.5.1",
+	"body": "Rebalancing, map fixes, & removed creeper block damage.",
+	"sound": "update",
+	"autoplay": true,
+    "notify": false,
+    "hidden": true,
+	"commands":[
+      {
+         "commands":[
+		    "gamerule commandBlockOutput false",
+            "gamerule doFireTick true",
+            "gamerule naturalRegeneration true",
+			"give @p 351 32 15",
+			"say Bonus bone meal acquired!",
+			"difficulty hard"
+         ]
+      }
+   ]
+}

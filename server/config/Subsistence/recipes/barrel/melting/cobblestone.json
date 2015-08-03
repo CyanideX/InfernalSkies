@@ -1,0 +1,10 @@
+[
+  {
+    "input": "cobblestone",
+    "output": {"fluid": "lava", "amount": 100},
+    "heat": {
+      "fire": 200,
+      "lava": 160
+    }
+  }
+]

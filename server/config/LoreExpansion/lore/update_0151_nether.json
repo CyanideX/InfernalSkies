@@ -1,0 +1,28 @@
+{
+	"sorting_index": 100,
+	"title": "Update 0.1.5.1 (Nether)",
+	"body": "Map updates and fixes.",
+	"sound": "update",
+	"autoplay": true,
+    "notify": false,
+    "hidden": true,
+	"commands":[
+      {
+         "commands":[
+		    "gamerule commandBlockOutput false",
+            "setblock -505 232 632 command_block 0 replace {Command:effect @p[r=35] 9 10}",
+            "setblock -505 233 632 ExtraUtilities:timer 0 replace",
+			"setblock -506 232 632 bedrock 0 replace",
+			"setblock -506 233 632 bedrock 0 replace",
+			"setblock -504 232 632 bedrock 0 replace",
+			"setblock -504 233 632 bedrock 0 replace",
+			"setblock -505 231 632 bedrock 0 replace",
+			"setblock -505 234 632 bedrock 0 replace",
+			"setblock -505 232 633 bedrock 0 replace",
+			"setblock -505 233 633 bedrock 0 replace",
+			"setblock -505 232 631 bedrock 0 replace",
+			"setblock -505 233 631 bedrock 0 replace"
+         ]
+      }
+   ]
+}

@@ -1,0 +1,22 @@
+[
+	{
+		"name": "IC2",
+		"url": "http://jenkins.ic2.player.to/job/IC2_experimental/736/artifact/build/libs/industrialcraft-2-2.2.736-experimental.jar",
+		"modid": "IndustrialCraft 2"
+	},
+	{
+		"name": "Advanced Machines",
+		"url": "https://github.com/AtomicStryker/github.io/raw/master/files/1.7.10/AdvancedMachinesAS-1.7.10.jar",
+		"modid": "Advanced Machines"
+	},
+	{
+		"name": "Advanced Solar Panels",
+		"url": "http://forum.industrial-craft.net/index.php?page=Attachment&attachmentID=4316&h=f2254c849c790ec1adc14a7173ef455cf2b483e7",
+		"modid": "Advanced Solar Panels"
+	},
+	{
+		"name": "GraviSuite",
+		"url": "http://forum.industrial-craft.net/index.php?page=Attachment&attachmentID=4519&h=176c2c7530440a440b60a1b9f9a21caeb6589155",
+		"modid": "GraviSuite"
+	}
+]

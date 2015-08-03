@@ -1,0 +1,40 @@
+{
+   "sorting_index":1,
+   "category":"Nether",
+   "title":"Path of Corruption",
+   "body":"Filthy human! Burn in fire!",
+   "sound":"netherLore01",
+   "autoplay":true,
+   "notify":false,
+   "commands":[
+      {
+         "commands":[
+			"gamerule doTileDrops false",
+			"summon PrimedTnt 0 64 -30 {Fuse:0}",
+            "tp @p 0 65 -30",
+            "clear @p"			
+         ]
+      },
+      {
+         "commands":[
+            "tpv @p -1 -506 151 633",
+			"gamerule doTileDrops true",
+			"gamerule doFireTick true",
+			"xu_killitems"
+         ],
+         "delay":45
+      },
+      {
+         "commands":[
+            "playsound mob.enderdragon.end @p"
+         ],
+         "delay":80
+      },
+      {
+         "commands":[
+            "playsound mob.ghast.charge @p"
+         ],
+         "delay":100
+      }
+   ]
+}

@@ -1,0 +1,11 @@
+[
+  {
+    "input": {
+      "item": {"item": "minecraft:netherrack", "damage": 0},
+      "fluid": {"fluid": "water", "amount": 1000}
+    },
+    "output": {
+	  "item": {"item": "minecraft:cobblestone", "damage": 0}
+    }
+  }
+]

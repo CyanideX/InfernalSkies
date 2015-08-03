@@ -1,0 +1,119 @@
+[
+  {
+    "input": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "output": {
+      "item": "minecraft:leather"
+    },
+    "duration": 2400
+  },
+  {
+    "input": {
+      "item": "minecraft:porkchop"
+    },
+    "output": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "duration": 1000,
+    "perishable": true
+  },
+  {
+    "input": {
+      "item": "customthings:item",
+          "damage": 15
+    },
+    "output": {
+      "item": "minecraft:iron_ingot"
+    },
+    "duration": 300
+  },
+  {
+    "input": {
+      "item": "customthings:item",
+          "damage": 18
+    },
+    "output": {
+      "item": "customthings:item",
+          "damage": 4
+    },
+    "duration": 80
+  },
+  {
+    "input": {
+      "item": "customthings:item",
+          "damage": 16
+    },
+    "output": {
+      "item": "customthings:item",
+          "damage": 13
+    },
+    "duration": 80
+  },
+   {
+    "input": {
+      "item": "customthings:item",
+          "damage": 17
+    },
+    "output": {
+      "item": "customthings:item",
+          "damage": 1
+    },
+    "duration": 80
+  },
+  {
+    "input": {
+      "item": "customthings:item",
+          "damage": 20
+    },
+    "output": {
+      "item": "customthings:item",
+          "damage": 10
+    },
+    "duration": 80
+  },
+  {
+    "input": {
+      "item": "customthings:item",
+          "damage": 19
+    },
+    "output": {
+      "item": "customthings:item",
+          "damage": 7
+    },
+    "duration": 80
+  },
+  {
+    "input": {
+      "item": "customthings:item",
+          "damage": 40
+    },
+    "output": {
+      "item": "customthings:item",
+          "damage": 39
+    },
+    "duration": 80
+  },
+  {
+    "input": {
+      "item": "customthings:item",
+          "damage": 41
+    },
+    "output": {
+      "item": "IC2:itemPlates",
+          "damage": 4
+    },
+    "duration": 80
+  },
+  {
+    "input": {
+      "item": "subsistence:component_item",
+          "damage": 2
+    },
+    "output": {
+      "item": "subsistence:component_item",
+          "damage": 3
+    },
+    "duration": 5000
+  }
+]

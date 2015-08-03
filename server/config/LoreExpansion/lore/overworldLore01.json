@@ -1,0 +1,17 @@
+{
+	"sorting_index": 1,
+	"category": "Overworld",
+	"title": "Disappointment",
+	"body": "What a disappointment...",
+	"sound": "overworldLore01",
+	"autoplay":true,
+	"notify":false,
+	"commands":[
+      {
+         "commands":[
+            "tp @p 0 65 5000",
+            "clear @p"			
+         ]
+      }
+   ]
+}

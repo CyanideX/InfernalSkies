@@ -1,0 +1,10 @@
+[
+  {
+    "input": "sand",
+    "output": "glass",
+    "heat": {
+      "fire": 200,
+      "lava": 160
+    }
+  }
+]

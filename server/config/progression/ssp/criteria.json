@@ -1,0 +1,112 @@
+{
+  "tabs": [
+    {
+      "uniqueName": "1431626310059",
+      "displayName": "New Tab",
+      "sortIndex": 7,
+      "isVisible": true,
+      "stack": "BuildCraft|Factory:pumpBlock",
+      "criteria": []
+    },
+    {
+      "uniqueName": "1431626187457",
+      "displayName": "Vanilla",
+      "sortIndex": 19,
+      "isVisible": true,
+      "stack": "minecraft:crafting_table",
+      "criteria": []
+    },
+    {
+      "uniqueName": "1431626238807",
+      "displayName": "IC2",
+      "sortIndex": 8,
+      "isVisible": true,
+      "stack": "IC2:blockMachine 13",
+      "criteria": []
+    },
+    {
+      "uniqueName": "1433023394648",
+      "displayName": "New Tab",
+      "sortIndex": 0,
+      "isVisible": true,
+      "stack": "EnderIO:blockTelePad",
+      "criteria": [
+        {
+          "uniqueName": "1433023731541",
+          "displayName": "Telepad Core",
+          "displayStack": "minecraft:stone",
+          "triggers": [
+            {
+              "type": "obtain",
+              "data": {
+                "item": "customthings:item 34",
+                "matchNBT": true
+              }
+            }
+          ],
+          "rewards": [
+            {
+              "type": "crafting",
+              "data": {
+                "item": "customthings:item 26",
+                "matchNBT": true,
+                "disableUsage": false
+              }
+            }
+          ],
+          "repeatable": 1,
+          "x": 178,
+          "y": 87,
+          "isVisible": true,
+          "mustClaim": false,
+          "displayAchievement": false
+        },
+        {
+          "uniqueName": "1433026978389",
+          "displayName": "Atom Encoder",
+          "displayStack": "minecraft:stone",
+          "triggers": [
+            {
+              "type": "obtain",
+              "data": {
+                "item": "customthings:item 35",
+                "matchNBT": true
+              }
+            }
+          ],
+          "rewards": [
+            {
+              "type": "crafting",
+              "data": {
+                "item": "customthings:item 33",
+                "matchNBT": true,
+                "disableUsage": false
+              }
+            }
+          ],
+          "repeatable": 1,
+          "x": 256,
+          "y": 87,
+          "isVisible": true,
+          "mustClaim": false,
+          "displayAchievement": false
+        }
+      ]
+    },
+    {
+      "uniqueName": "1431638872064",
+      "displayName": "New Tab",
+      "sortIndex": 9,
+      "isVisible": true,
+      "stack": "subsistence:table_sieve",
+      "criteria": []
+    }
+  ],
+  "defaultTabID": "DEFAULT",
+  "disableCraftingUntilRewardAdded": false,
+  "disableUsageUntilRewardAdded": false,
+  "unclaimedTileCanCraftAnything": false,
+  "unclaimedTileCanUseAnythingForCrafting": false,
+  "interfaceItem": "minecraft:book",
+  "displayRequirementsOnNEIClick": true
+}

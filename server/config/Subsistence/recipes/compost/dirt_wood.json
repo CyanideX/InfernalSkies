@@ -1,0 +1,20 @@
+[
+  {
+    "type": "wood",
+	"input": [
+      {"ores": ["treeSapling", "treeLeaves"]}
+    ],
+    "output": {
+      "item": {
+        "item": "dirt",
+        "amount": 1
+      }
+    },
+    "time": {
+      "compost": 2400
+    },
+    "condensates": false,
+    "conditional": "any_with_global_limit",
+    "global_limit": 8
+  }
+]

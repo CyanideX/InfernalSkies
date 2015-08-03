@@ -1,0 +1,29 @@
+[
+    {
+        "input":{
+            "item":"subsistence:component_wood",
+            "damage":3
+        },
+        "output":[
+			{
+                "item":{
+                    "item":"subsistence:component_wood",
+                    "damage":0
+                },
+                "chance":0.04
+            },
+			{
+                "item":{
+                    "item":"Forestry:woodPulp",
+                    "damage":0
+                },
+                "chance":0.2
+            }
+        ],
+        "duration":{
+            "hand":200,
+            "block":200
+        },
+        "type":"both"
+    }
+]

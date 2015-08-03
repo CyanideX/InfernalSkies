@@ -1,0 +1,26 @@
+0.1.0.0 - 	Public Beta release!
+
+0.1.2.8 - 	Fixed crashing with custom things.
+			Updated progression.
+			
+0.1.3.0 -	Removed Infernal Mobs... too evil early game.
+
+0.1.4.1 -	IMPORTANT RECIPE FIXES!
+
+0.1.5.0 - 	Updated mods.
+			Changed light requirements for plant growth.
+			Changed plant drops at certain stages.
+			Wormwood textures now indicate grown state.
+			Right click wormwood to replant (ttcore) but be careful if you want it to dry.
+			Fixed broken recipes / item detection.
+			Increased drop rates from dirt.
+			Added new quests.
+			Change some quest properties.
+			Made a lot of quests easier.
+			Fixed quest copies.
+			Added new "Pack Update" questline - claim rewards to update map settings.
+			Menu changes - tentative.
+			Added issue report button.
+			Changed mob spawning rates for overworld and nether.
+			Passive mobs now require light to spawn.
+			Pigmen now spawn in the overworld (as they should have been).

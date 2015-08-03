@@ -1,0 +1,21 @@
+[
+  {
+	"type": "stone",
+	"input": [
+      {"item": "netherrack", "amount": 23},
+      {"item": "redstone", "amount": 1}
+    ],
+    "output": {
+      "item": {
+        "item": "cobblestone",
+        "amount": 23
+      }
+    },
+    "time": {
+      "heat": {
+        "torch": 2500
+      }
+    },
+    "requires_condensate": true
+  }
+]

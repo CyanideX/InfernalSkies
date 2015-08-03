@@ -1,0 +1,17 @@
+{
+	"sorting_index": 0,
+	"title": "Let's Begin",
+	"body": "You're all set!",
+	"notify": false,
+	"commands":[
+      {
+         "commands":[
+            "gamerule commandBlockOutput false",
+            "time set 25700",
+            "gamerule doDaylightCycle false",
+			"gamerule doFireTick false",
+			"weather clear"
+         ]
+      }
+   ]
+}

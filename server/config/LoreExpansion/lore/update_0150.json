@@ -1,0 +1,18 @@
+{
+	"sorting_index": 100,
+	"title": "Update 0.1.5.0",
+	"body": "Fixes natural regeneration.",
+	"sound": "update",
+	"autoplay": true,
+    "notify": false,
+    "hidden": true,
+	"commands":[
+      {
+         "commands":[
+		    "gamerule commandBlockOutput false",
+            "gamerule doFireTick true",
+            "gamerule naturalRegeneration true"
+         ]
+      }
+   ]
+}

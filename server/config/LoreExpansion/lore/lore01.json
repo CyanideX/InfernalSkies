@@ -1,0 +1,18 @@
+{
+	"sorting_index": 1,
+	"title": "I wants it!",
+	"body": "You want the power. You want to be in control. I can give that to you. Proceed to the tree of life and pluck from it one of it's fruits... eat it.",
+	"sound": "lore01",
+	"autoplay": true,
+	"notify": false,
+	"commands":[
+      {
+         "commands":[
+            "setblock 0 65 -6 air 0 replace",
+            "setblock 1 65 -6 air 0 replace",
+            "setblock -1 65 -6 air 0 replace",
+			"skycolor 0 0.2 0.05 0.05 15000"
+         ]
+      }
+   ]
+}

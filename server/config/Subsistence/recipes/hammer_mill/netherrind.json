@@ -1,0 +1,9 @@
+[
+  [
+    {"item": "subsistence:component_ground", "damage": 2},
+    "minecraft:netherrack",
+    {"item": "subsistence:component_ground", "damage": 1},
+	"minecraft:soul_sand",
+	{"item": "subsistence:component_ground", "damage": 3}
+  ]
+]

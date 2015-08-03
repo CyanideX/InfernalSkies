@@ -1,0 +1,74 @@
+{"data":
+	[
+		{
+		"name": "netherDiamond",
+		"tools": ["PICKAXE"],
+		"level": 3,
+		"durability": 1561,
+		"efficiency": 4.0f,
+		"damage": 5.0f,
+		"enchantability": 5,
+		"material": "customthings:item;21"
+		},
+		{
+		"name": "hellfireDiamond",
+		"tools": ["PICKAXE"],
+		"level": 3,
+		"durability": 3000,
+		"efficiency": 8.0f,
+		"damage": 10.0f,
+		"enchantability": 5,
+		"material": "customthings:item;21"
+		},
+		{
+		"name": "skyfellDiamond",
+		"tools": ["PICKAXE"],
+		"level": 3,
+		"durability": 3000,
+		"efficiency": 8.0f,
+		"damage": 10.0f,
+		"enchantability": 5,
+		"material": "minecraft:diamond"
+		},
+		{
+		"name": "netherDiamond",
+		"tools": ["AXE"],
+		"level": 3,
+		"durability": 1561,
+		"efficiency": 4.0f,
+		"damage": 3.0f,
+		"enchantability": 5,
+		"material": "customthings:item;21"
+		},
+		{
+		"name": "netherDiamond",
+		"tools": ["HOE"],
+		"level": 3,
+		"durability": 1561,
+		"efficiency": 4.0f,
+		"damage": 4.0f,
+		"enchantability": 5,
+		"material": "customthings:item;21"
+		},
+		{
+		"name": "netherDiamond",
+		"tools": ["SHOVEL"],
+		"level": 3,
+		"durability": 1561,
+		"efficiency": 3.0f,
+		"damage": 4.0f,
+		"enchantability": 5,
+		"material": "customthings:item;21"
+		},
+		{
+		"name": "netherDiamond",
+		"tools": ["SWORD"],
+		"level": 3,
+		"durability": 1561,
+		"efficiency": 4.0f,
+		"damage": 4.0f,
+		"enchantability": 5,
+		"material": "customthings:item;21"
+		}
+	]
+}

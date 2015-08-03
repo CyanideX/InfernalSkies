@@ -1,0 +1,9 @@
+[
+  [
+    "minecraft:wheat",
+	{"item": "EnderIO:itemPowderIngot", "damage": 8},
+	{"item": "EnderIO:itemPowderIngot", "damage": 8},
+	{"item": "EnderIO:itemPowderIngot", "damage": 8},
+	{"item": "EnderIO:itemPowderIngot", "damage": 8}
+  ]
+]

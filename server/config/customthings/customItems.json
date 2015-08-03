@@ -1,0 +1,157 @@
+{"data":
+	[
+		{
+		"name": "pickaxeHead_stone"
+		},
+		{
+		"name": "pickaxeHead_iron"
+		},
+		{
+		"name": "pickaxeHead_diamond"
+		},
+		{
+		"name": "hoeHead_stone"
+		},
+		{
+		"name": "hoeHead_iron"
+		},
+		{
+		"name": "hoeHead_diamond"
+		},
+		{
+		"name": "shovelHead_stone"
+		},
+		{
+		"name": "shovelHead_iron"
+		},
+		{
+		"name": "shovelHead_diamond"
+		},
+		{
+		"name": "swordBlade_stone"
+		},
+		{
+		"name": "swordBlade_iron"
+		},
+		{
+		"name": "swordBlade_diamond"
+		},
+		{
+		"name": "axeHead_stone"
+		},
+		{
+		"name": "axeHead_iron"
+		},
+		{
+		"name": "axeHead_diamond"
+		},
+		{
+		"name": "ingot_hot"
+		},
+		{
+		"name": "axeHead_iron_hot"
+		},
+		{
+		"name": "pickaxeHead_iron_hot"
+		},
+		{
+		"name": "hoeHead_iron_hot"
+		},
+		{
+		"name": "shovelHead_iron_hot"
+		},
+		{
+		"name": "swordBlade_iron_hot"
+		},
+		{
+		"name": "diamond_nether"
+		},
+		{
+		"name": "diamond_hellfire"
+		},
+		{
+		"name": "diamond_skyfell"
+		},
+		{
+		"name": "blueprint"
+		},
+		{
+		"name": "blueprint_damaged"
+		},
+		{
+		"name": "telepadCore"
+		},
+		{
+		"name": "drive_corrupted"
+		},
+		{
+		"name": "drive_damaged"
+		},
+		{
+		"name": "ironPlate_reinforced"
+		},
+		{
+		"name": "rubberBit"
+		},
+		{
+		"name": "rubberBall"
+		},
+		{
+		"name": "scrapMetal"
+		},
+		{
+		"name": "atomEncoder"
+		},
+		{
+		"name": "blueprint_part1"
+		},
+		{
+		"name": "blueprint_part2"
+		},
+		{
+		"name": "blueprint_part3"
+		},
+		{
+		"name": "hammerHead_steel"
+		},
+		{
+		"name": "hammerHead_diamond"
+		},
+		{
+		"name": "hammerHead_iron"
+		},
+		{
+		"name": "hammerHead_iron_hot"
+		},
+		{
+		"name": "plate_iron_hot"
+		},
+		{
+		"name": "diamondShard"
+		},
+		{
+		"name": "rock"
+		},
+		{
+		"name": "netherDiamondShard"
+		},
+		{
+		"name": "pickaxeHead_netherDiamond"
+		},
+		{
+		"name": "axeHead_netherDiamond"
+		},
+		{
+		"name": "shovelHead_netherDiamond"
+		},
+		{
+		"name": "hoeHead_netherDiamond"
+		},
+		{
+		"name": "swordBlade_netherDiamond"
+		},
+		{
+		"name": "plate_iron"
+		}		
+	]
+}
